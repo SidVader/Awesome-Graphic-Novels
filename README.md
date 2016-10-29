@@ -41,7 +41,7 @@ Books
 * [Batman: The Killing Joke](https://www.goodreads.com/book/show/96358.Batman) by Alan Moore (Goodreads Author), Brian Bolland (Illustrator)
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
-* [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Andy Kubert (Pencils), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
+* [Wolverine: Origin](https://www.goodreads.com/book/show/22469.Wolverine) by Paul Jenkins (Script, plot), Richard Isanove (Digital painting), Joe Quesada (Plot), Bill Jemas (Plot)
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
